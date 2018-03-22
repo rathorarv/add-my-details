@@ -1,0 +1,23 @@
+{
+    "name": "slack-ap",
+    "version": "1.0.0",
+    "description": "this is part of learning",
+    "main": "server.js",
+    "scripts": {
+        "test": "npm start",
+        "start": "node server.js"
+    },
+    "keywords": [
+        "slack"
+    ],
+    "engines": {
+        "node": "9.3.0"
+    },
+    "author": "arvind singh",
+    "license": "ISC",
+    "dependencies": {
+        "dropbox": "^2.5.13",
+        "express": "^4.16.3",
+        "key-val-parser": "^3.0.0"
+    }
+}
